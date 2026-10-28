@@ -120,10 +120,4 @@ If the repository includes a backend, package configuration, environment variabl
 **Theme:** Education & Student Life  
 **Goal:** Make learning, assessment, and presentation practice more interactive through a unified digital study companion.
 
-## 👥 Team
 
-Add your team members, roles, and contact details here.
-
-## 📄 License
-
-Add a license before distributing the project publicly. For example, an MIT License can be used if the team owns the code and agrees to its terms.
